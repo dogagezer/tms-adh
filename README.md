@@ -1,2 +1,2 @@
 # tms-adh
-Finden Sie heraus, welcher der möglichen Zugangswege zum einen Medizinstudium zu Ihnen passt!
+Finden Sie heraus, welche der deutschen Universitäten Sie für ein Medizinstudium annehmen würde!
